@@ -6,4 +6,6 @@ public class SBUtil {
     public void printl(Object x){
         System.out.println(x.toString());
     }
+
+    public void goodbye(){this.printl("Goodbye!");}
 }
