@@ -10,3 +10,5 @@
   * LOLCODE
 4. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3nkanm/20151005_challenge_235_easy_ruthaaron_pairs/">Challenge #235[EASY]: Ruth-Aaron Pairs</a>
   * Java
+5. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3wshp7/20151214_challenge_245_easy_date_dilemma/">Challenge #245[EASY]: Date Dilemma</a>
+  * Java
