@@ -6,6 +6,7 @@ import java.util.Random;
  * Created by Andrew Budziszek on 12/20/15.
  * Reddit Daily Programmer: Challenge #238
  * Fallout Hacking Game[INTERMEDIATE]
+ * https://www.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/
  */
 
 public class Challenge238FalloutHackingGame {

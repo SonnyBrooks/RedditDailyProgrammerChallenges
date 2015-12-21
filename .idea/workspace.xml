@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db654eb-67da-40af-8ed0-3f28dea5607b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Challenge238FalloutHackingGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/RedditDailyProgrammerChallenges/SBUtil.class" afterPath="$PROJECT_DIR$/out/production/RedditDailyProgrammerChallenges/SBUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SBUtil.java" afterPath="$PROJECT_DIR$/src/SBUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Challenge238FalloutHackingGame.java" afterPath="$PROJECT_DIR$/src/Challenge238FalloutHackingGame.java" />
     </list>
     <ignored path="RedditDailyProgrammerChallenges.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +28,8 @@
       <file leaf-file-name="Challenge238FalloutHackingGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Challenge238FalloutHackingGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43290043">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.58441556">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#main#0;class#Challenge238FalloutHackingGame#0" expanded="false" />
@@ -779,12 +775,12 @@
       <workItem from="1450244918230" duration="1521000" />
       <workItem from="1450314143468" duration="254000" />
       <workItem from="1450673332086" duration="6571000" />
-      <workItem from="1450716930348" duration="254000" />
+      <workItem from="1450716930348" duration="428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22834000" />
+    <option name="totallyTimeSpent" value="23008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1360" y="32" width="1360" height="768" extended-state="0" />
@@ -1109,8 +1105,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge238FalloutHackingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43290043">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.58441556">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Challenge238FalloutHackingGame#0" expanded="false" />
