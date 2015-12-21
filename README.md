@@ -12,3 +12,5 @@
   * Java
 5. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3wshp7/20151214_challenge_245_easy_date_dilemma/">Challenge #245[EASY]: Date Dilemma</a>
   * Java
+6. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/">Challenge #238[INTERMEDIATE]: Fallout Hacking Game</a>
+  * Java
