@@ -30,6 +30,9 @@ public class Challenge238FalloutHackingGame {
         util = new SBUtil("/Users/Andrew/IdeaProjects/RedditDailyProgrammerChallenges/src/Files/enable1.txt");
         int lengthOfWords = -1;
         switch (difficulty){
+            case -1:
+                util.goodbye();
+                System.exit(1);
             case 1:
                 lengthOfWords = 4;
                 break;
