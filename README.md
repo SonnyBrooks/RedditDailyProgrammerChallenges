@@ -14,3 +14,5 @@
   * Java
 6. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/">Challenge #238[INTERMEDIATE]: Fallout Hacking Game</a>
   * Java
+7. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3xpgj8/20151221_challenge_246_easy_xmass_lights/">Challenge #246[EASY]: Xmass Lights</a>
+  * Java
