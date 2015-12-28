@@ -5,9 +5,10 @@
   * LOLCODE
 2. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3s4nyq/20151109_challenge_240_easy_typoglycemia/">Challenge #240[EASY]: Typoglycemia</a>
   * Java
-3. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/">Challenge #239[EASY]: Game of Threes</a>
+3. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/">Challenge #239[EASY]: A Game of Threes</a>
   * Java
   * LOLCODE
+  * Python (12.27.15)
 4. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3nkanm/20151005_challenge_235_easy_ruthaaron_pairs/">Challenge #235[EASY]: Ruth-Aaron Pairs</a>
   * Java
   * Python
