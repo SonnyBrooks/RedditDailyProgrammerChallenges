@@ -1,5 +1,4 @@
 # Reddit Daily Programmer Challenges
-## Table of Contents
 1. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3uuhdk/20151130_challenge_243_easy_abundant_and/">Challenge #243[EASY]: Abundant and Deficient Numbers</a>
   * Java  
   * LOLCODE
@@ -21,3 +20,11 @@
 8. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/">Challenge #213[EASY]:Cellular Automata: Rule 90</a>
   * Java
   * Python
+<hr>
+# Project Euler
+1. Python 12.30.15
+2. Python 12.30.15
+3. Python 12.30.15
+4. Python 12.30.15
+5. Python 12.30.15
+6. Python 12.30.15
