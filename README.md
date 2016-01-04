@@ -32,9 +32,9 @@
 8. Python 1.3.15
 9. Python 1.3.15
 10. Python 1.3.15
-11.
+11. N/A
 12. Python 1.3.15
 13. Python 1.3.15
 14. Python 1.3.15
-15. 
+15. N/A
 16. Python 1.3.15
