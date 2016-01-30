@@ -28,22 +28,22 @@
 4. Python 12.30.15
 5. Python 12.30.15
 6. Python 12.30.15
-7. Python 1.3.15
-8. Python 1.3.15
-9. Python 1.3.15
-10. Python 1.3.15
+7. Python 1.3.16
+8. Python 1.3.16
+9. Python 1.3.16
+10. Python 1.3.16
 11. N/A
-12. Python 1.3.15
-13. Python 1.3.15
-14. Python 1.3.15
+12. Python 1.3.16
+13. Python 1.3.16
+14. Python 1.3.16
 15. N/A
-16. Python 1.3.15
-17. N/A
+16. Python 1.3.16
+17. Python 1.29.16
 18. N/A
 19. N/A
-20. Python 1.4.15
+20. Python 1.4.16
 21. N/A
 22. N/A
 23. N/A
 24. N/A
-25. Python 1.4.15
+25. Python 1.4.16
