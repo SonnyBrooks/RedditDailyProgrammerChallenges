@@ -20,6 +20,8 @@
 8. <a href="https://www.reddit.com/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/">Challenge #213[EASY]:Cellular Automata: Rule 90</a>
   * Java
   * Python
+9. #380[EASY]: Smooshed Morse Code 1
+  * Python
 
 # Project Euler
 1. Python 12.30.15
